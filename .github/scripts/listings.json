@@ -22,5 +22,26 @@
     "is_visible": true,
     "date_posted": 1757384749,
     "date_updated": 1757384749
+  },
+  {
+    "id": "8a3c27cf-204e-4c25-88e7-57f2aeaf0b4e",
+    "source": "aelew",
+    "company_name": "PayPal",
+    "company_url": "https://paypal.com",
+    "title": "Fullstack Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Jose, CA",
+      "Chicago, IL",
+      "Omaha, NE",
+      "Scottsdale, AZ",
+      "Austin, TX"
+    ],
+    "sponsorship": "Other",
+    "url": "https://paypal.eightfold.ai/careers/job/274915740755?domain=paypal.com&hl=en",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757467379,
+    "date_updated": 1757467379
   }
 ]
