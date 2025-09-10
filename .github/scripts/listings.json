@@ -43,5 +43,23 @@
     "is_visible": true,
     "date_posted": 1757467379,
     "date_updated": 1757467379
+  },
+  {
+    "id": "6d1f7030-21c8-4ffa-b529-3b47d3b156ec",
+    "source": "aelew",
+    "company_name": "Activision Blizzard",
+    "company_url": "https://www.activisionblizzard.com",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Sherman Oaks, CA",
+      "Santa Monica, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.activision.com/job/R025995/2026-US-Summer-Internships-Software-Engineering",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757469205,
+    "date_updated": 1757469205
   }
 ]
