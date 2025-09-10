@@ -98,5 +98,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .github/scripts/listings.json
-          git commit -m "add listing: ${{ inputs.title }} @ ${{ inputs.company_name }}"
+          git commit -m "add listing: ${{ inputs.title }} @ ${{ inputs.company_name }}
+
+          Co-authored-by: ${{ github.event.sender.login }} <${{ github.event.sender.id }}+${{ github.event.sender.login }}@users.noreply.github.com>"
           git push
