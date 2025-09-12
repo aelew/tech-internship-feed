@@ -114,5 +114,22 @@
     "is_visible": true,
     "date_posted": 1757706268,
     "date_updated": 1757706268
+  },
+  {
+    "id": "ee73784e-719a-461d-844c-248c6d2d55b1",
+    "source": "aelew",
+    "company_name": "Moody's",
+    "company_url": "https://www.moodys.com/",
+    "title": "Moody's Ratings Technology Summer Internship (Data Engineering)",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.moodys.com/moody-s-ratings-technology-summer-internship-data-engineering/job/10710",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757706478,
+    "date_updated": 1757706478
   }
 ]
