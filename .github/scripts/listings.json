@@ -97,5 +97,22 @@
     "is_visible": true,
     "date_posted": 1757697888,
     "date_updated": 1757697888
+  },
+  {
+    "id": "d4f6ddcb-a302-4ce7-aae1-1f26d503e38e",
+    "source": "aelew",
+    "company_name": "Schonfeld",
+    "company_url": "https://www.schonfeld.com/",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747?gh_src=e73f47fb1us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757706268,
+    "date_updated": 1757706268
   }
 ]
