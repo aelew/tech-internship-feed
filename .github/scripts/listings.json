@@ -61,5 +61,22 @@
     "is_visible": true,
     "date_posted": 1757469205,
     "date_updated": 1757469205
+  },
+  {
+    "id": "c40cd709-0b21-48b5-b8e1-e7d19d9edc51",
+    "source": "aelew",
+    "company_name": "Cox Enterprises",
+    "company_url": "https://www.coxenterprises.com",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://jobs.coxenterprises.com/en/jobs/r202566822/software-engineering-intern-summer-2026-atlanta/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757646990,
+    "date_updated": 1757646990
   }
 ]
