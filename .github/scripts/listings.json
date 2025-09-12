@@ -78,5 +78,24 @@
     "is_visible": true,
     "date_posted": 1757646990,
     "date_updated": 1757646990
+  },
+  {
+    "id": "5a2531f5-d1ea-4375-af12-84f41e189b04",
+    "source": "aelew",
+    "company_name": "MongoDB",
+    "company_url": "https://www.mongodb.com",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Austin, TX"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "url": "https://www.mongodb.com/careers/jobs/7239454",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757697888,
+    "date_updated": 1757697888
   }
 ]
