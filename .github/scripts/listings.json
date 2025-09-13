@@ -165,5 +165,25 @@
     "is_visible": true,
     "date_posted": 1757747708,
     "date_updated": 1757747708
+  },
+  {
+    "id": "10e42ab3-22ca-4fe6-ba44-f397de750d52",
+    "source": "aelew",
+    "company_name": "Intuit",
+    "company_url": "https://www.intuit.com/",
+    "title": "Full Stack Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Mountain View, CA",
+      "San Diego, CA",
+      "New York, NY",
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-full-stack-engineering-intern/27595/86084161280",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757784321,
+    "date_updated": 1757784321
   }
 ]
