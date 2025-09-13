@@ -131,5 +131,22 @@
     "is_visible": true,
     "date_posted": 1757706478,
     "date_updated": 1757706478
+  },
+  {
+    "id": "f081fd2c-bf19-4bfd-8ac4-3bd0708098a1",
+    "source": "aelew",
+    "company_name": "Microsoft",
+    "company_url": "https://www.microsoft.com",
+    "title": "Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View",
+    "season": "Summer 2026",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.careers.microsoft.com/us/en/job/1877399/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-Mountain-View",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757736881,
+    "date_updated": 1757736881
   }
 ]
