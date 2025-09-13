@@ -148,5 +148,22 @@
     "is_visible": true,
     "date_posted": 1757736881,
     "date_updated": 1757736881
+  },
+  {
+    "id": "e6522e11-2af5-4e3b-8ffb-c9f8694f1048",
+    "source": "aelew",
+    "company_name": "Viam",
+    "company_url": "https://www.viam.com",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/5648506004",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757747708,
+    "date_updated": 1757747708
   }
 ]
