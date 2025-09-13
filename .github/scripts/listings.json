@@ -205,5 +205,24 @@
     "is_visible": true,
     "date_posted": 1757784398,
     "date_updated": 1757784398
+  },
+  {
+    "id": "a8800ecd-461d-4904-8b76-508b7f4e0581",
+    "source": "aelew",
+    "company_name": "Microsoft",
+    "company_url": "https://www.microsoft.com/",
+    "title": "Undergraduate Research Internship \u2013 Computing",
+    "season": "Summer 2026",
+    "locations": [
+      "Redmond, WA",
+      "New York, NY",
+      "Cambridge, MA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757784476,
+    "date_updated": 1757784476
   }
 ]
