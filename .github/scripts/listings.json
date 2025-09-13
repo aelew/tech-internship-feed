@@ -224,5 +224,24 @@
     "is_visible": true,
     "date_posted": 1757784476,
     "date_updated": 1757784476
+  },
+  {
+    "id": "debea815-cbe1-4856-85ce-abb5e8491662",
+    "source": "aelew",
+    "company_name": "Allium",
+    "company_url": "https://www.allium.so/",
+    "title": "Engineering Intern - General / AI",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY",
+      "Singapore",
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757796310,
+    "date_updated": 1757796310
   }
 ]
