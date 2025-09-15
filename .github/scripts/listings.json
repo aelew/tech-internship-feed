@@ -371,5 +371,22 @@
     "is_visible": true,
     "date_posted": 1757962711,
     "date_updated": 1757962711
+  },
+  {
+    "id": "18e91e28-80ef-4510-b1f4-07bf8c70606d",
+    "source": "aelew",
+    "company_name": "Nasdaq",
+    "company_url": "https://www.nasdaq.com/",
+    "title": "Software Developer/Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/GA---Glenridge-Point/Software-Developer-Engineer-Intern---2026-Summer-Internship_R0023603",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757964364,
+    "date_updated": 1757964364
   }
 ]
