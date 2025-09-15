@@ -263,5 +263,25 @@
     "is_visible": true,
     "date_posted": 1757922651,
     "date_updated": 1757922651
+  },
+  {
+    "id": "64fd3595-c616-4f09-8d69-b40e2aada774",
+    "source": "aelew",
+    "company_name": "Citizens",
+    "company_url": "https://www.citizensbank.com/",
+    "title": "Data Management Undergraduate Internship",
+    "season": "Summer 2026",
+    "locations": [
+      "Columbus, OH",
+      "Johnston, RI",
+      "Coralville, IA",
+      "Westwood, MA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://jobs.citizensbank.com/job/columbus/data-management-undergraduate-internship-summer-2026/288/85989791712",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757922735,
+    "date_updated": 1757922735
   }
 ]
