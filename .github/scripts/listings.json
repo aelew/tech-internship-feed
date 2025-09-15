@@ -300,5 +300,22 @@
     "is_visible": true,
     "date_posted": 1757945872,
     "date_updated": 1757945872
+  },
+  {
+    "id": "3fb2c778-6cef-4d04-ab3d-9e1cd1b70488",
+    "source": "aelew",
+    "company_name": "Duolingo",
+    "company_url": "",
+    "title": "Associate Product Manager, Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.duolingo.com/jobs/8155399002?",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757945986,
+    "date_updated": 1757945986
   }
 ]
