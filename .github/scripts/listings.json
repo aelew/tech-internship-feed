@@ -351,5 +351,25 @@
     "is_visible": true,
     "date_posted": 1757962645,
     "date_updated": 1757962645
+  },
+  {
+    "id": "4c3b0bc4-e374-4ddf-a7af-9e3c52850ca3",
+    "source": "aelew",
+    "company_name": "State Farm",
+    "company_url": "https://www.statefarm.com/",
+    "title": "Summer 2026 Intern - Enterprise Technology - Engineer (Software, Data, Infrastructure)",
+    "season": "Summer 2026",
+    "locations": [
+      "Bloomington, IL",
+      "Dunwoody, GA",
+      "Richardson, TX",
+      "Tempe, AZ"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://jobs.statefarm.com/main/jobs/41746?lang=en-us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757962711,
+    "date_updated": 1757962711
   }
 ]
