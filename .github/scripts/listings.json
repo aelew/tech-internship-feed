@@ -334,5 +334,22 @@
     "is_visible": true,
     "date_posted": 1757959903,
     "date_updated": 1757959903
+  },
+  {
+    "id": "dc6650e3-6b77-4390-90e8-5a0dfee30552",
+    "source": "aelew",
+    "company_name": "Klaviyo",
+    "company_url": "https://www.klaviyo.com/",
+    "title": "Full-stack Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757962645,
+    "date_updated": 1757962645
   }
 ]
