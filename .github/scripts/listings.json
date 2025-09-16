@@ -406,5 +406,22 @@
     "is_visible": true,
     "date_posted": 1757985071,
     "date_updated": 1757985071
+  },
+  {
+    "id": "591a429c-1269-45f4-9374-3713af6ea5a2",
+    "source": "aelew",
+    "company_name": "Waymo",
+    "company_url": "https://waymo.com/",
+    "title": "2026 Summer Intern, BS/MS, Software Engineering, Simulation",
+    "season": "Summer 2026",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-simulation-mountain-view-california-united-states",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757992267,
+    "date_updated": 1757992267
   }
 ]
