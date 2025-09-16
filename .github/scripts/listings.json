@@ -440,5 +440,23 @@
     "is_visible": true,
     "date_posted": 1758047865,
     "date_updated": 1758047865
+  },
+  {
+    "id": "118f6f2e-6f8a-4c52-8049-97571a3d9d9a",
+    "source": "aelew",
+    "company_name": "OpenAI",
+    "company_url": "https://openai.com/",
+    "title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758048345,
+    "date_updated": 1758048345
   }
 ]
