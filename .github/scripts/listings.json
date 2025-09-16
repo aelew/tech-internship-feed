@@ -423,5 +423,22 @@
     "is_visible": true,
     "date_posted": 1757992267,
     "date_updated": 1757992267
+  },
+  {
+    "id": "7634ada4-91d8-4cd3-a580-5991ae5c95d0",
+    "source": "aelew",
+    "company_name": "Dexcom",
+    "company_url": "https://www.dexcom.com/",
+    "title": "Intern I - SW Development Engineering",
+    "season": "Summer 2026",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.dexcom.com/careers/job/37990370",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758047865,
+    "date_updated": 1758047865
   }
 ]
