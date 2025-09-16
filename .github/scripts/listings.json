@@ -388,5 +388,23 @@
     "is_visible": true,
     "date_posted": 1757964364,
     "date_updated": 1757964364
+  },
+  {
+    "id": "23a4e0f3-f004-4fdd-9747-4b626467914e",
+    "source": "aelew",
+    "company_name": "Sigma Computing",
+    "company_url": "https://www.sigmacomputing.com/",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757985071,
+    "date_updated": 1757985071
   }
 ]
