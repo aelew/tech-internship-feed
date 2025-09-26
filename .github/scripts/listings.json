@@ -543,5 +543,22 @@
     "is_visible": true,
     "date_posted": 1758921091,
     "date_updated": 1758921091
+  },
+  {
+    "id": "07f56fee-457d-49c6-a7aa-33659bc2e5d2",
+    "source": "aelew",
+    "company_name": "Uber",
+    "company_url": "https://www.uber.com/",
+    "title": "2026 Summer Software Engineering Internship, US",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://university-uber.icims.com/jobs/149140/2026-summer-software-engineering-internship%2c-us/job",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758926235,
+    "date_updated": 1758926235
   }
 ]
