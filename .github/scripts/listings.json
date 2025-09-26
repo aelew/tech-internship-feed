@@ -526,5 +526,22 @@
     "is_visible": true,
     "date_posted": 1758911178,
     "date_updated": 1758911178
+  },
+  {
+    "id": "33694c1f-b85b-4e29-a5fe-dc3e136f55c2",
+    "source": "aelew",
+    "company_name": "Samsung",
+    "company_url": "https://www.samsung.com/",
+    "title": "Intern, System Software Engineer - CXL",
+    "season": "Summer 2026",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7478636003",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758921091,
+    "date_updated": 1758921091
   }
 ]
