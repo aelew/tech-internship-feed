@@ -509,5 +509,22 @@
     "is_visible": true,
     "date_posted": 1758872066,
     "date_updated": 1758872066
+  },
+  {
+    "id": "6f1a0fab-e56b-4927-a788-cabf674fd440",
+    "source": "aelew",
+    "company_name": "Veeva",
+    "company_url": "https://www.veeva.com/",
+    "title": "Intern Software Engineer (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758911178,
+    "date_updated": 1758911178
   }
 ]
