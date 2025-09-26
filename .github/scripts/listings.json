@@ -492,5 +492,22 @@
     "is_visible": true,
     "date_posted": 1758232867,
     "date_updated": 1758232867
+  },
+  {
+    "id": "2115bacd-a66d-42ef-95a6-9b87dac3adec",
+    "source": "aelew",
+    "company_name": "Chatham Financial",
+    "company_url": "https://www.chathamfinancial.com/",
+    "title": "2026 Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758872066,
+    "date_updated": 1758872066
   }
 ]
