@@ -560,5 +560,24 @@
     "is_visible": true,
     "date_posted": 1758926235,
     "date_updated": 1758926235
+  },
+  {
+    "id": "d0839f6d-62f2-49d7-af46-a8ea3f3725e2",
+    "source": "aelew",
+    "company_name": "Slack",
+    "company_url": "https://slack.com/",
+    "title": "Summer 2026 Intern - Software Engineer",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "Bellevue, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-3",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758946082,
+    "date_updated": 1758946082
   }
 ]
