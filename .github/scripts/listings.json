@@ -596,5 +596,22 @@
     "is_visible": true,
     "date_posted": 1759161348,
     "date_updated": 1759161348
+  },
+  {
+    "id": "4f16f671-192d-4997-9e8d-af221b01c6bc",
+    "source": "aelew",
+    "company_name": "Microsoft",
+    "company_url": "",
+    "title": "Explore Program Internship Opportunities: Second-Year Students, Atlanta",
+    "season": "Summer 2026",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1884627/Explore-Program-Internship-Opportunities:-Second-Year-Students,-Atlanta",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759187279,
+    "date_updated": 1759187279
   }
 ]
