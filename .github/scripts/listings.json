@@ -613,5 +613,40 @@
     "is_visible": true,
     "date_posted": 1759187279,
     "date_updated": 1759187279
+  },
+  {
+    "id": "31c1cdea-dcc1-4e99-99d9-d712454f0569",
+    "source": "aelew",
+    "company_name": "Google",
+    "company_url": "",
+    "title": "Student Researcher, BS/MS, Winter/Summer 2026",
+    "season": "Summer 2026",
+    "locations": [
+      "Mountain View, CA",
+      "Ann Arbor, MI",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Cambridge, MA",
+      "Chicago, IL",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Princeton, NJ",
+      "Pittsburgh, PA",
+      "San Bruno, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "Sunnyvale, CA",
+      "Washington D.C."
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/140245524367188678-student-researcher-bsms-wintersummer-2026",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759187387,
+    "date_updated": 1759187387
   }
 ]
