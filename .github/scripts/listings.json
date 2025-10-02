@@ -665,5 +665,22 @@
     "is_visible": true,
     "date_posted": 1759187488,
     "date_updated": 1759187488
+  },
+  {
+    "id": "151b845c-fec9-41ff-be5b-92bd6ffc9b9c",
+    "source": "aelew",
+    "company_name": "LinkedIn",
+    "company_url": "",
+    "title": "Software Engineer Intern, Undergraduate - Summer 2026 (Mountain View, CA)",
+    "season": "Summer 2026",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.linkedin.com/jobs/view/4309096414/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759367931,
+    "date_updated": 1759367931
   }
 ]
