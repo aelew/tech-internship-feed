@@ -699,5 +699,22 @@
     "is_visible": true,
     "date_posted": 1759368014,
     "date_updated": 1759368014
+  },
+  {
+    "id": "b5196d40-26fd-4ce5-8c5d-2ce3105b438a",
+    "source": "aelew",
+    "company_name": "Replit",
+    "company_url": "",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759368079,
+    "date_updated": 1759368079
   }
 ]
