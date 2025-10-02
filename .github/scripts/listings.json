@@ -682,5 +682,22 @@
     "is_visible": true,
     "date_posted": 1759367931,
     "date_updated": 1759367931
+  },
+  {
+    "id": "228e2e82-6fa4-492d-aaed-7e580bc523e2",
+    "source": "aelew",
+    "company_name": "LinkedIn",
+    "company_url": "",
+    "title": "Software Engineer Intern, Undergraduate - Summer 2026 (Bellevue, WA) ",
+    "season": "Summer 2026",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.linkedin.com/jobs/view/4309085691/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759368014,
+    "date_updated": 1759368014
   }
 ]
