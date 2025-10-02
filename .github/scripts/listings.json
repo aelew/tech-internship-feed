@@ -716,5 +716,22 @@
     "is_visible": true,
     "date_posted": 1759368079,
     "date_updated": 1759368079
+  },
+  {
+    "id": "2552adc1-b60f-4704-b16d-17ef50cd496e",
+    "source": "aelew",
+    "company_name": "ZipRecruiter",
+    "company_url": "",
+    "title": "Software Engineer - Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7289109",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759418168,
+    "date_updated": 1759418168
   }
 ]
