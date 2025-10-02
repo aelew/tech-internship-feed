@@ -733,5 +733,24 @@
     "is_visible": true,
     "date_posted": 1759418168,
     "date_updated": 1759418168
+  },
+  {
+    "id": "a5b86a85-b6af-41c7-bfc5-01580632f0fa",
+    "source": "aelew",
+    "company_name": "Motive",
+    "company_url": "https://motivehq.com/",
+    "title": "Software Engineer Intern",
+    "season": "Winter 2026",
+    "locations": [
+      "Seattle, WA",
+      "Oklahoma City, OK",
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.motivehq.com/36211",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759433505,
+    "date_updated": 1759433505
   }
 ]
