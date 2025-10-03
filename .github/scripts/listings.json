@@ -769,5 +769,22 @@
     "is_visible": true,
     "date_posted": 1759449653,
     "date_updated": 1759449653
+  },
+  {
+    "id": "001a7021-4689-4c39-92ef-8d5eec0331c7",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.com/",
+    "title": "Software Development Engineer Internship - Winter 2026",
+    "season": "Winter 2026",
+    "locations": [
+      "Multiple"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/3100321/software-development-engineer-internship-winter-2026-us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759504386,
+    "date_updated": 1759504386
   }
 ]
