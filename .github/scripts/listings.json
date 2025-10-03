@@ -752,5 +752,22 @@
     "is_visible": true,
     "date_posted": 1759433505,
     "date_updated": 1759433505
+  },
+  {
+    "id": "80800b27-e943-4b66-9184-a57bb4d5c2ad",
+    "source": "aelew",
+    "company_name": "Twitch",
+    "company_url": "",
+    "title": "Undergrad Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8174019002&fbclid=PAZnRzaANL8TZleHRuA2FlbQIxMQABp0harUzHukwCu7j48C8iMl3Ywx_vV1BgwSoia_ZVYF_ijYPIBTnXeBXfQ2pl_aem_H3WDWnt94sdIhohqp4sErw",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759449653,
+    "date_updated": 1759449653
   }
 ]
