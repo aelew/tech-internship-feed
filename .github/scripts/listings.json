@@ -786,5 +786,24 @@
     "is_visible": true,
     "date_posted": 1759504386,
     "date_updated": 1759504386
+  },
+  {
+    "id": "436e126e-8127-4492-8eae-52d039a62a33",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.com/",
+    "title": "Amazon Robotics - Software Development Engineer Co-Op - Spring 2026",
+    "season": "Spring 2026",
+    "locations": [
+      "Westborough, MA",
+      "Seattle, WA",
+      "North Reading, MA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/3100414/amazon-robotics-software-development-engineer-co-op-spring-2026",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759511124,
+    "date_updated": 1759511124
   }
 ]
