@@ -805,5 +805,23 @@
     "is_visible": true,
     "date_posted": 1759511124,
     "date_updated": 1759511124
+  },
+  {
+    "id": "c19306b5-234b-42c5-8ac1-f243ff7a2e5e",
+    "source": "aelew",
+    "company_name": "Nutanix",
+    "company_url": "https://www.nutanix.com/",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Jose, CA",
+      "Durham, NC"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://careers.nutanix.com/en/jobs/30256/software-engineering-intern-undergrad-please-only-apply/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759684074,
+    "date_updated": 1759684074
   }
 ]
