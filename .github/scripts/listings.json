@@ -857,5 +857,26 @@
     "is_visible": true,
     "date_posted": 1759781035,
     "date_updated": 1759781035
+  },
+  {
+    "id": "d1a2c764-e59c-476c-acc3-b6e1f15d5d9a",
+    "source": "aelew",
+    "company_name": "DoorDash",
+    "company_url": "https://www.doordash.com/",
+    "title": "Software Engineer, Intern (Summer 2026) - US",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Seattle, WA",
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7262223",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759784912,
+    "date_updated": 1759784912
   }
 ]
