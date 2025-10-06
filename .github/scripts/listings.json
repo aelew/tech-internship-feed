@@ -840,5 +840,22 @@
     "is_visible": true,
     "date_posted": 1759741315,
     "date_updated": 1759741315
+  },
+  {
+    "id": "79944cf1-6473-430a-a09d-d6720b3dddaf",
+    "source": "aelew",
+    "company_name": "Netflix",
+    "company_url": "",
+    "title": "Software Engineer Intern - (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://explore.jobs.netflix.net/careers/job?domain=netflix.com&pid=790312348360&query=intern&location=United+States&sort_by=relevance&job_index=0",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759781035,
+    "date_updated": 1759781035
   }
 ]
