@@ -823,5 +823,22 @@
     "is_visible": true,
     "date_posted": 1759684074,
     "date_updated": 1759684074
+  },
+  {
+    "id": "6b7e072e-ae98-41d7-a4bb-3cdd379c8cee",
+    "source": "aelew",
+    "company_name": "Khan Academy",
+    "company_url": "https://www.khanacademy.org/",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Remote (US + Canada)"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/7258549",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759741315,
+    "date_updated": 1759741315
   }
 ]
