@@ -878,5 +878,22 @@
     "is_visible": true,
     "date_posted": 1759784912,
     "date_updated": 1759784912
+  },
+  {
+    "id": "bae11974-ed9e-4fd5-954c-89275d4048d5",
+    "source": "aelew",
+    "company_name": "Southwest Airlines",
+    "company_url": "https://www.southwest.com/",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://careers.southwestair.com/job/R-2025-60210/Software-Engineer-Summer-2026-Internships",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759850201,
+    "date_updated": 1759850201
   }
 ]
