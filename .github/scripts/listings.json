@@ -895,5 +895,23 @@
     "is_visible": true,
     "date_posted": 1759850201,
     "date_updated": 1759850201
+  },
+  {
+    "id": "dc52f942-fea8-444a-b0d4-ce8e22537e76",
+    "source": "aelew",
+    "company_name": "Patreon",
+    "company_url": "https://www.patreon.com/",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/patreon/68ee2ece-6200-411b-8ccf-a1841b947e9a",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759958254,
+    "date_updated": 1759958254
   }
 ]
