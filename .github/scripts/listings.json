@@ -913,5 +913,23 @@
     "is_visible": true,
     "date_posted": 1759958254,
     "date_updated": 1759958254
+  },
+  {
+    "id": "1bd2f211-2199-413a-bad1-0b0b271a6a35",
+    "source": "aelew",
+    "company_name": "Warner Bros.",
+    "company_url": "https://www.warnerbros.com/",
+    "title": "Software Engineering Intern \u2013 Summer 2026",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY",
+      "Bellevue, WA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/WA-Bellevue-205-108th-Avenue-NE-Suite-S200/Software-Engineering-Intern---Summer-2026_R000098960",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1760380815,
+    "date_updated": 1760380815
   }
 ]
