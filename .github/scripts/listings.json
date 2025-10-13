@@ -949,5 +949,24 @@
     "is_visible": true,
     "date_posted": 1760389512,
     "date_updated": 1760389512
+  },
+  {
+    "id": "b0ad90fa-720c-425c-849c-7397a284bc45",
+    "source": "aelew",
+    "company_name": "Wells Fargo",
+    "company_url": "",
+    "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "Concord, CA",
+      "San Leandro, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://www.wellsfargojobs.com/en/jobs/r-498519/2026-technology-summer-internship-early-careers-software-engineer/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1760389873,
+    "date_updated": 1760389873
   }
 ]
