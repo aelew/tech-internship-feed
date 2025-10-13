@@ -931,5 +931,23 @@
     "is_visible": true,
     "date_posted": 1760380815,
     "date_updated": 1760380815
+  },
+  {
+    "id": "cf9eab65-7b5e-4793-b7d8-4e8e956c6afa",
+    "source": "aelew",
+    "company_name": "Coinbase",
+    "company_url": "",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1760389512,
+    "date_updated": 1760389512
   }
 ]
