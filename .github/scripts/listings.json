@@ -968,5 +968,22 @@
     "is_visible": true,
     "date_posted": 1760389873,
     "date_updated": 1760389873
+  },
+  {
+    "id": "13438051-9dc5-4737-a6c9-75e8582000a9",
+    "source": "aelew",
+    "company_name": "Meta",
+    "company_url": "https://meta.com/",
+    "title": "Production Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.metacareers.com/jobs/1161887009217246",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1760671150,
+    "date_updated": 1760671150
   }
 ]
