@@ -1019,5 +1019,22 @@
     "is_visible": true,
     "date_posted": 1760745730,
     "date_updated": 1760745730
+  },
+  {
+    "id": "ba2a7612-4ae0-47f1-a76c-9585c5f426ef",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "",
+    "title": "Twitch - Software Eng Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/3111795/software-eng-intern",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1760745757,
+    "date_updated": 1760745757
   }
 ]
