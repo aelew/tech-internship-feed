@@ -1036,5 +1036,23 @@
     "is_visible": true,
     "date_posted": 1760745757,
     "date_updated": 1760745757
+  },
+  {
+    "id": "bd55cd45-4af9-4a83-90f6-f67d6c3c25b8",
+    "source": "aelew",
+    "company_name": "Citadel Securities",
+    "company_url": "https://www.citadelsecurities.com/",
+    "title": "Software Engineer \u2013 Intern (US)",
+    "season": "Summer 2026",
+    "locations": [
+      "Miami, FL",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761080405,
+    "date_updated": 1761080405
   }
 ]
