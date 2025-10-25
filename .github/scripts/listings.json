@@ -1054,5 +1054,22 @@
     "is_visible": true,
     "date_posted": 1761080405,
     "date_updated": 1761080405
+  },
+  {
+    "id": "db4a7211-943d-48da-b529-84757fdb73f3",
+    "source": "aelew",
+    "company_name": "Uber Freight",
+    "company_url": "https://www.uberfreight.com/",
+    "title": "Software Engineer Intern - Summer 2026",
+    "season": "Summer 2026",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.uberfreight.com/careers/?gh_jid=4961311008&gh_src=d2f501538us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761362601,
+    "date_updated": 1761362601
   }
 ]
