@@ -1071,5 +1071,22 @@
     "is_visible": true,
     "date_posted": 1761362601,
     "date_updated": 1761362601
+  },
+  {
+    "id": "6e3da95c-ab1e-427d-a5d4-d3c19af2ddf7",
+    "source": "aelew",
+    "company_name": "Credit Karma",
+    "company_url": "https://www.creditkarma.com/",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "sponsorship": "Other",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=5760872003&jr_id=68fbef8293c49825ab10798a&gh_src=Simplify",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761377591,
+    "date_updated": 1761377591
   }
 ]
