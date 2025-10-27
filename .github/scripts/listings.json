@@ -1088,5 +1088,22 @@
     "is_visible": true,
     "date_posted": 1761377591,
     "date_updated": 1761377591
+  },
+  {
+    "id": "445b9937-ff44-4aba-9362-026d1e4467ca",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.com/",
+    "title": "Software Development Engineer Internship - Summer 2026 (US)",
+    "season": "Summer 2026",
+    "locations": [
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761599887,
+    "date_updated": 1761599887
   }
 ]
