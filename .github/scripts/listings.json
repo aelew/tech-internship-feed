@@ -1105,5 +1105,22 @@
     "is_visible": true,
     "date_posted": 1761599887,
     "date_updated": 1761599887
+  },
+  {
+    "id": "de9b1764-4a9a-4df2-8c83-3f658f71b898",
+    "source": "aelew",
+    "company_name": "GitHub",
+    "company_url": "https://github.com/",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "Remote (US)"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers-githubinc.icims.com/jobs/4640/software-engineering-intern/job?mode=submit_apply",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761687371,
+    "date_updated": 1761687371
   }
 ]
