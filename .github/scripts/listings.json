@@ -1156,5 +1156,22 @@
     "is_visible": true,
     "date_posted": 1761715823,
     "date_updated": 1761715823
+  },
+  {
+    "id": "1db3589f-affb-407d-bf68-4e6cbfc34c01",
+    "source": "aelew",
+    "company_name": "Rockstar Games",
+    "company_url": "https://www.rockstargames.com/",
+    "title": "Intern: Data Analytics / Data Science (Summer 2026)",
+    "season": "Summer 2026",
+    "locations": [
+      "Manhattan, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7406971003",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761764263,
+    "date_updated": 1761764263
   }
 ]
