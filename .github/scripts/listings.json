@@ -1139,5 +1139,22 @@
     "is_visible": true,
     "date_posted": 1761715783,
     "date_updated": 1761715783
+  },
+  {
+    "id": "45692543-aabe-4344-811c-70331b632ecd",
+    "source": "aelew",
+    "company_name": "The New York Times",
+    "company_url": "https://www.nytimes.com/",
+    "title": "Product Design Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623459005",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761715823,
+    "date_updated": 1761715823
   }
 ]
