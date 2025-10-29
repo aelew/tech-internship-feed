@@ -1122,5 +1122,22 @@
     "is_visible": true,
     "date_posted": 1761687371,
     "date_updated": 1761687371
+  },
+  {
+    "id": "3f9ef3e2-9f65-4f8d-ac1b-79ea38c3d52c",
+    "source": "aelew",
+    "company_name": "The New York Times",
+    "company_url": "https://www.nytimes.com/",
+    "title": "Backend Engineering Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761715783,
+    "date_updated": 1761715783
   }
 ]
