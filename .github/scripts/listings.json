@@ -1173,5 +1173,22 @@
     "is_visible": true,
     "date_posted": 1761764263,
     "date_updated": 1761764263
+  },
+  {
+    "id": "f1e60a87-fbf7-4748-aa6c-110e58f2a186",
+    "source": "aelew",
+    "company_name": "NBA",
+    "company_url": "",
+    "title": "Technology Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.nba.com/job/JR000099/Undergraduate-Technology-Intern",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761870648,
+    "date_updated": 1761870648
   }
 ]
