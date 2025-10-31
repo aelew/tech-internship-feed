@@ -1190,5 +1190,22 @@
     "is_visible": true,
     "date_posted": 1761870648,
     "date_updated": 1761870648
+  },
+  {
+    "id": "d8ba2ca0-490a-4d27-8b17-efddc3a499a9",
+    "source": "aelew",
+    "company_name": "Staples",
+    "company_url": "",
+    "title": "Full Stack Software Development Intern - June 2026",
+    "season": "Summer 2026",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/55801/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761879141,
+    "date_updated": 1761879141
   }
 ]
