@@ -1207,5 +1207,25 @@
     "is_visible": true,
     "date_posted": 1761879141,
     "date_updated": 1761879141
+  },
+  {
+    "id": "bbb63290-4635-48c5-96ff-0189c2eaaa07",
+    "source": "aelew",
+    "company_name": "Snap",
+    "company_url": "https://www.snap.com/",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2026",
+    "locations": [
+      "New York, NY",
+      "Los Angeles, CA",
+      "Bellevue, WA",
+      "Palo Alto, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://app.ripplematch.com/v2/public/job/781f0230?from_page=company_branded_page",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1769022602,
+    "date_updated": 1769022602
   }
 ]
