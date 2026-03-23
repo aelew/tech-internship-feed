@@ -1227,5 +1227,22 @@
     "is_visible": true,
     "date_posted": 1769022602,
     "date_updated": 1769022602
+  },
+  {
+    "id": "c51995d3-d4e2-46c2-af7c-60ed69916cdf",
+    "source": "aelew",
+    "company_name": "BART (Bay Area Rapid Transit)",
+    "company_url": "https://www.bart.gov",
+    "title": "Engineering Internship",
+    "season": "Summer 2026",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://www.governmentjobs.com/careers/bartca/jobs/5279197/engineering-internship",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1774251376,
+    "date_updated": 1774251376
   }
 ]
