@@ -28,12 +28,12 @@ on:
         description: Season
         required: true
         type: choice
-        default: Summer 2026
+        default: Summer 2027
         options:
-          - Spring 2026
-          - Summer 2026
-          - Fall 2026
-          - Winter 2026
+          - Spring 2027
+          - Summer 2027
+          - Fall 2027
+          - Winter 2027
       sponsorship:
         description: Sponsorship Status
         required: true
