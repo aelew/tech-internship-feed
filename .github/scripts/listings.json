@@ -16,5 +16,23 @@
     "is_visible": true,
     "date_posted": 1786735944,
     "date_updated": 1786735944
+  },
+  {
+    "id": "5b2dd3e9-8968-4a07-bf45-256bf8237efa",
+    "source": "aelew",
+    "company_name": "Notion",
+    "company_url": "https://www.notion.com/",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "season": "Winter 2027",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1786735997,
+    "date_updated": 1786735997
   }
 ]
