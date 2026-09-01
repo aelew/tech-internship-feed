@@ -53,5 +53,26 @@
     "is_visible": true,
     "date_posted": 1788230450,
     "date_updated": 1788230450
+  },
+  {
+    "id": "3c01a10b-9fec-465d-bfd7-73b97fff8fc2",
+    "source": "aelew",
+    "company_name": "Whatnot",
+    "company_url": "https://www.whatnot.com/",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "locations": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "New York, NY",
+      "Seattle, WA",
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788230570,
+    "date_updated": 1788230570
   }
 ]
