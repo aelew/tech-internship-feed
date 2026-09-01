@@ -34,5 +34,24 @@
     "is_visible": true,
     "date_posted": 1786735997,
     "date_updated": 1786735997
+  },
+  {
+    "id": "b800054e-1015-4244-b0d5-888af5f0a6cc",
+    "source": "aelew",
+    "company_name": "Stripe",
+    "company_url": "https://stripe.com/",
+    "title": "Software Engineer, Intern (Summer/Winter)",
+    "season": "Summer 2027",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=stripe&token=8128745",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788230450,
+    "date_updated": 1788230450
   }
 ]
