@@ -74,5 +74,23 @@
     "is_visible": true,
     "date_posted": 1788230570,
     "date_updated": 1788230570
+  },
+  {
+    "id": "1aae4961-b243-4ba0-8800-89291409cfdb",
+    "source": "aelew",
+    "company_name": "Shopify",
+    "company_url": "https://www.shopify.com",
+    "title": "US Software Engineering Internships Summer 2027",
+    "season": "Summer 2027",
+    "locations": [
+      "Bellevue, WA",
+      "New York City, NY"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "url": "https://www.shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1790626126,
+    "date_updated": 1790626126
   }
 ]
